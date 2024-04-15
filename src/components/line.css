@@ -1,0 +1,25 @@
+/* TriplePieCharts.css */
+
+.flex {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+.chart-container {
+    width: 30%;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.chart-container select {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.chart-container h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
